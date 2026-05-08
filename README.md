@@ -1,13 +1,14 @@
-Hi, I'm Nazanin 👩‍💻
+## Hi, I'm Nazanin 👩‍💻
 
-🎓 Computer Engineering graduate
+### 🎓 Computer Engineering graduate
 
-📊 Interested in data mining (currently learning)
+### 📊 Interested in data mining 
+> currently learning
 
-🎮 Also passionate about game development
+### 🎮 Also passionate about game development
 
-🐍 Familiar with Python and C family languages (plus a few others at a basic level)
+### 🐍 Familiar with Python and C family languages (plus a few others at a basic level)
 
-🌐 Curious about networking and bypassing censorship & filtering
+### 🌐 Curious about networking and bypassing censorship & filtering
 
-✨ Still learning, still building, still questioning.
+### ✨ Still learning, still building, still questioning.
