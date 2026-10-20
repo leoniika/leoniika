@@ -6,7 +6,7 @@
 ### 📊 Interested in working with data  
 > The data is fighting back
 
-### 🎮 game dev enthusiast 
+### 🕹 game dev enthusiast 
 > it's not a bug, it's ✨unexpected gameplay✨
 
 ### 🐍 Familiar with Python and C family languages
