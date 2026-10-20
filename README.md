@@ -21,6 +21,10 @@ Building things, solving problems, and occasionally calling bugs "unexpected fea
 
 <br>
 
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=leoniika&custom_title=%F0%9F%8E%AF%20My%20most%20used%20languages&layout=compact&theme=transparent)](https://github.com/stats-organization/github-stats-extended)
+
+<br>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
