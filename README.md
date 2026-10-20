@@ -1,15 +1,27 @@
-## Hi, I'm Nazanin 👩‍💻
+# 💫 About Me:
+## Hi, I'm Nazanin 👩‍💻<br>
 
-### 🎓 Computer Engineering graduate
-> degree unlocked 🔓
+🎓 Computer Engineering Graduate
+Degree unlocked, learning journey ongoing 🔓
 
-### 📊 Interested in working with data  
-> The data is fighting back
+📊 Exploring Data & Data Mining
+Learning to turn raw data into meaningful insights, even then the data isn't cooperating.
 
-### 🕹 game dev enthusiast 
-> it's not a bug, it's ✨unexpected gameplay✨
+🎮 Game Development Enthusiast
+Building things, solving problems, and occasionally calling bugs "unexpected features."
 
-### 🐍 Familiar with Python and C family languages
-> making computers confused since day one
+🐍 Python & C-family Languages
 
-### 🤭 Works on my machine. skill issue if it doesn't. (ツ)
+🐞 Always learning, one bug at a time.
+
+<br>
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
+
+<br>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
