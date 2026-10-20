@@ -1,14 +1,15 @@
 ## Hi, I'm Nazanin 👩‍💻
 
 ### 🎓 Computer Engineering graduate
+> degree unlocked 🔓
 
-### 📊 Interested in data mining 
-> currently learning
+### 📊 Interested in working with data  
+> The data is fighting back
 
-### 🎮 Also passionate about game development
+### 🎮 game dev enthusiast 
+> it's not a bug, it's ✨unexpected gameplay✨
 
-### 🐍 Familiar with Python and C family languages (plus a few others at a basic level)
+### 🐍 Familiar with Python and C family languages
+> making computers confused since day one
 
-### 🌐 Curious about networking and bypassing censorship & filtering
-
-### ✨ Still learning, still building, still questioning.
+### 🤭 Works on my machine. skill issue if it doesn't. (ツ)
