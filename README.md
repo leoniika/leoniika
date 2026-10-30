@@ -1,8 +1,7 @@
 # 💫 About Me:
 ## Hi, I'm Nazanin 👩‍💻<br>
 
-🎓 Computer Engineering Graduate
-Degree unlocked, learning journey ongoing 🔓
+🎓 Computer Engineering Graduate, learning journey still ongoing 🔓
 
 📊 Exploring Data & Data Mining
 Learning to turn raw data into meaningful insights, even then the data isn't cooperating.
