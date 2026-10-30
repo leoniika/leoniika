@@ -4,10 +4,10 @@
 🎓 Computer Engineering Graduate, learning journey still ongoing 🔓
 
 📊 Exploring Data & Data Mining <br>
-Learning to turn raw data into meaningful insights, even then the data isn't cooperating.
+>  Learning to turn raw data into meaningful insights, even then the data isn't cooperating.
 
 🎮 Game Development Enthusiast <br>
-Building things, solving problems, and occasionally calling bugs "unexpected features."
+>  Building things, solving problems, and occasionally calling bugs "unexpected features."
 
 🐍 Python & C-family Languages
 
