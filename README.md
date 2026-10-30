@@ -11,8 +11,6 @@
 
 🐍 Python & C-family Languages
 
-🐞 Always learning, one bug at a time.
-
 <br>
 
 # 💻 Tech Stack:
