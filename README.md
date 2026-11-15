@@ -36,7 +36,7 @@
 ### Productivity & AI Tools
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=plastic&logo=openai&logoColor=white)
-[![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=plastic&logo=perplexity&logoColor=fff)]
+![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=plastic&logo=perplexity&logoColor=fff)
 
 <br>
 
